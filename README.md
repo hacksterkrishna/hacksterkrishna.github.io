@@ -1,4 +1,4 @@
-# www.krishnam.com.np
+# krishnam.com.np
 My Website hosted on github.
 
-Visit Here:-[www.krishnam.com.np](http://www.krishnam.com.np)
+Visit Here:-[krishnam.com.np](http://krishnam.com.np)
